@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ginni16
-- 👀 I’m interested in  ...
+- 👀 I’m interested to work in open source ...
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding 
+- 💞️ I’m looking to collaborate on coding  and various open source projects
 - 📫 How to reach me twitter-@ginni_jain16 
 
 <!---
