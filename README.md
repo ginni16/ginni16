@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **BLOCKCHAIN , ANDROID DEVELOPMENT , FULLSTACK DEVELOPMENT**
 
-- 💬 Ask me about **WEB 3 , SOLIDITY ,JAVASCRIPT , FLUTTER**
+- 💬 Ask me about **WEB 3 , SOLIDITY ,JAVASCRIPT , FLUTTER , React.js**
 
 - 📫 How to reach me **jainginni23@gmail.com**
 
